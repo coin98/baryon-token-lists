@@ -1,0 +1,44 @@
+{
+    "name": "BaryonSwap Token",
+    "timestamp": "2022-03-15T07:09:38.270Z",
+    "version": {},
+    "keywords": [
+        "baryon",
+        "baryonswap"
+    ],
+    "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/baryon.png",
+    "tokens": [
+        {
+            "name": "Coin98",
+            "address": "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6",
+            "symbol": "C98",
+            "decimals": 18,
+            "logoURI": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
+            "chainId": 56
+        },
+        {
+            "name": "Coin98 Insights",
+            "address": "0x5c93f4b35d3dd97ef481881aa33d00f76806fdad",
+            "symbol": "INS",
+            "decimals": 18,
+            "logoURI": "https://coin98.s3.amazonaws.com/1zkUABYppr2n2KpL",
+            "chainId": 56
+        },
+        {
+            "name": "B-Peg BUSD",
+            "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+            "symbol": "BUSD",
+            "decimals": 18,
+            "logoURI": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
+            "chainId": 56
+        },
+        {
+            "name": "Ouro Governance Share",
+            "address": "0x416947e6fc78f158fd9b775fa846b72d768879c2",
+            "symbol": "OGS",
+            "decimals": 18,
+            "logoURI": "https://coin98.s3.amazonaws.com/Z1i2LgWGqjJ3gY2x",
+            "chainId": 56
+        }
+    ]
+}
