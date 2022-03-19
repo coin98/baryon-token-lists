@@ -23,4 +23,4 @@ Create an issue with the following info:
 
 ## Have more questions?
 Come visit us on discord at our channel. 
-Link: https://discord.com/invite/bPT5d8e8
+Link: https://baryon.link/discord
