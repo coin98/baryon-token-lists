@@ -1,6 +1,6 @@
 {
     "name": "BaryonSwap Token",
-    "timestamp": "2022-03-15T07:09:38.270Z",
+    "timestamp": "2022-03-19T05:00:00.168Z",
     "version": {},
     "keywords": [
         "baryon",
@@ -8,6 +8,22 @@
     ],
     "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/baryon.png",
     "tokens": [
+        {
+            "name": "Hot Cross",
+            "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+            "symbol": "HOTCROSS",
+            "decimals": 18,
+            "logoURI": "https://coin98.s3.amazonaws.com/Ax0nd9sJtwl15tPU",
+            "chainId": 56
+        },
+        {
+            "name": "Thetan Arena",
+            "address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+            "symbol": "THG",
+            "decimals": 18,
+            "logoURI": "https://coin98.s3.amazonaws.com/YdtByABCXrtluMlX",
+            "chainId": 56
+        },
         {
             "name": "Coin98",
             "address": "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6",
