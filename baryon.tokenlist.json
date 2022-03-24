@@ -1,6 +1,6 @@
 {
     "name": "BaryonSwap Token",
-    "timestamp": "2022-03-24T05:00:00.168Z",
+    "timestamp": "2022-03-24T06:10:11.703Z",
     "version": {},
     "keywords": [
         "baryon",
@@ -9,43 +9,35 @@
     "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/baryon.png",
     "tokens": [
         {
-            "name": "Dark Energy Crystals",
-            "address": "0xe9d7023f2132d55cbd4ee1f78273cb7a3e74f10a",
-            "symbol": "DEC",
-            "decimals": 3,
-            "logoURI": "https://coin98.s3.amazonaws.com/UdgBKzkZLYQKMRuu",
+            "name": "Hot Cross",
+            "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+            "symbol": "HOTCROSS",
+            "decimals": 18,
+            "logoURI": "https://coin98.s3.amazonaws.com/Ax0nd9sJtwl15tPU",
             "chainId": 56
         },
         {
-            "name": "Splinterlands",
-            "address": "0x1633b7157e7638c4d6593436111bf125ee74703f",
-            "symbol": "SPS",
+            "name": "Thetan Arena",
+            "address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+            "symbol": "THG",
             "decimals": 18,
-            "logoURI": "https://coin98.s3.amazonaws.com/3XHV0u6JWZfCSZJh",
+            "logoURI": "https://coin98.s3.amazonaws.com/YdtByABCXrtluMlX",
             "chainId": 56
         },
         {
-            "name": "BSCPAD",
-            "address": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700",
-            "symbol": "BSCPAD",
+            "name": "Coin98",
+            "address": "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6",
+            "symbol": "C98",
             "decimals": 18,
-            "logoURI": "https://coin98.s3.amazonaws.com/MO7AZm1iB1WIDj8l",
+            "logoURI": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
             "chainId": 56
         },
         {
-            "name": "Binamars",
-            "address": "0x46880afc2e6fa41bbbe9787c082f7c23f795465e",
-            "symbol": "BMARS",
+            "name": "Coin98 Insights",
+            "address": "0x5c93f4b35d3dd97ef481881aa33d00f76806fdad",
+            "symbol": "INS",
             "decimals": 18,
-            "logoURI": "https://coin98.s3.amazonaws.com/HuXbaI8IlvjICkyc",
-            "chainId": 56
-        },
-        {
-            "name": "BNB Token",
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "symbol": "BNB",
-            "decimals": 18,
-            "logoURI": null,
+            "logoURI": "https://coin98.s3.amazonaws.com/1zkUABYppr2n2KpL",
             "chainId": 56
         },
         {
@@ -62,46 +54,6 @@
             "symbol": "OGS",
             "decimals": 18,
             "logoURI": "https://coin98.s3.amazonaws.com/Z1i2LgWGqjJ3gY2x",
-            "chainId": 56
-        },
-        {
-            "name": "RAMP",
-            "address": "0x8519ea49c997f50ceffa444d240fb655e89248aa",
-            "symbol": "RAMP",
-            "decimals": 18,
-            "logoURI": "https://coin98.s3.amazonaws.com/oWp4UnfImFOgES9v",
-            "chainId": 56
-        },
-        {
-            "name": "PancakeSwap",
-            "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-            "symbol": "CAKE",
-            "decimals": 18,
-            "logoURI": "https://coin98.s3.amazonaws.com/sYZGOCiL5TuKvtzM",
-            "chainId": 56
-        },
-        {
-            "name": "JOJO",
-            "address": "0x78a499a998bdd5a84cf8b5abe49100d82de12f1c",
-            "symbol": "JOJO",
-            "decimals": 9,
-            "logoURI": "https://coin98.s3.amazonaws.com/A80GQ7PwLWs8VcmD",
-            "chainId": 56
-        },
-        {
-            "name": "Bunicorn",
-            "address": "0x0e7beec376099429b85639eb3abe7cf22694ed49",
-            "symbol": "BUNI",
-            "decimals": 18,
-            "logoURI": "https://coin98.s3.amazonaws.com/lm2RzkZqB2oDgdC2",
-            "chainId": 56
-        },
-        {
-            "name": "Coin98",
-            "address": "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6",
-            "symbol": "C98",
-            "decimals": 18,
-            "logoURI": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
             "chainId": 56
         }
     ]
