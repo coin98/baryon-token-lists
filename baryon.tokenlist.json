@@ -1,6 +1,6 @@
 {
     "name": "BaryonSwap Token",
-    "timestamp": "2022-10-03T23:00:00.526Z",
+    "timestamp": "2022-10-04T05:00:00.444Z",
     "version": {},
     "keywords": [
         "baryon",
@@ -49,7 +49,7 @@
             "chainId": 56
         },
         {
-            "name": "Impossible \bFinance",
+            "name": "Impossible Finance",
             "address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
             "symbol": "IDIA",
             "decimals": 18,
@@ -105,7 +105,7 @@
             "chainId": 56
         },
         {
-            "name": "Insights \bReward Token",
+            "name": "Coin98 Insights",
             "address": "0x5c93f4b35d3dd97ef481881aa33d00f76806fdad",
             "symbol": "INS",
             "decimals": 18,
