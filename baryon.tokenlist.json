@@ -1,6 +1,6 @@
 {
     "name": "BaryonSwap Token",
-    "timestamp": "2023-02-27T11:00:00.481Z",
+    "timestamp": "2023-02-27T23:00:00.418Z",
     "version": {},
     "keywords": [
         "baryon",
@@ -8,6 +8,14 @@
     ],
     "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/baryon.png",
     "tokens": [
+        {
+            "name": "Kingdom Raids",
+            "address": "0x37b53894e7429f794b56f22a32e1695567ee9913",
+            "symbol": "KRS",
+            "decimals": 18,
+            "logoURI": "https://coin98.s3.amazonaws.com/AJmY8Ns7sx0OYTge",
+            "chainId": 56
+        },
         {
             "name": "Aura",
             "address": "0x23c5d1164662758b3799103effe19cc064d897d6",
