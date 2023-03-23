@@ -1,6 +1,6 @@
 {
     "name": "BaryonSwap Token",
-    "timestamp": "2023-03-23T05:00:00.357Z",
+    "timestamp": "2023-03-23T11:00:00.428Z",
     "version": {},
     "keywords": [
         "baryon",
@@ -8,6 +8,13 @@
     ],
     "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/baryon.png",
     "tokens": [
+        {
+            "name": "Boxing Token",
+            "address": "0x02d13f76ad167dee06e77d574e17c1161bd0a3e6",
+            "symbol": "BOXING",
+            "decimals": "4",
+            "chainId": 56
+        },
         {
             "name": "Kingdom Raids",
             "address": "0x37b53894e7429f794b56f22a32e1695567ee9913",
