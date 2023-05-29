@@ -1,6 +1,6 @@
 {
     "name": "BaryonSwap Token",
-    "timestamp": "2023-05-29T11:00:00.205Z",
+    "timestamp": "2023-05-29T17:00:00.211Z",
     "version": {},
     "keywords": [
         "baryon",
@@ -24,7 +24,7 @@
             "chainId": 56
         },
         {
-            "name": "Aura",
+            "name": "Aura Network",
             "address": "0x23c5d1164662758b3799103effe19cc064d897d6",
             "symbol": "AURA",
             "decimals": 6,
