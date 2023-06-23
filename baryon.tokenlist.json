@@ -1,6 +1,6 @@
 {
     "name": "BaryonSwap Token",
-    "timestamp": "2023-06-22T23:00:00.202Z",
+    "timestamp": "2023-06-23T11:00:00.231Z",
     "version": {},
     "keywords": [
         "baryon",
@@ -52,7 +52,7 @@
             "address": "0x55d398326f99059fF775485246999027B3197955",
             "symbol": "USDT",
             "decimals": 18,
-            "logoURI": "https://coin98.s3.amazonaws.com/ezlQ989CDrZKqHyF",
+            "logoURI": "https://coin98.s3.amazonaws.com/jpjgywX0Hki6T9Rp",
             "chainId": 56
         },
         {
