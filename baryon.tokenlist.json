@@ -1,6 +1,6 @@
 {
     "name": "BaryonSwap Token",
-    "timestamp": "2023-08-17T05:00:00.211Z",
+    "timestamp": "2023-08-17T11:00:00.214Z",
     "version": {},
     "keywords": [
         "baryon",
@@ -128,11 +128,11 @@
             "chainId": 56
         },
         {
-            "name": "B-Peg BUSD",
+            "name": "Binance-Peg BUSD",
             "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
             "symbol": "BUSD",
             "decimals": 18,
-            "logoURI": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
+            "logoURI": "https://coin98.s3.amazonaws.com/PIpdSxI2l3IvYejl",
             "chainId": 56
         },
         {
