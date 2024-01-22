@@ -1,6 +1,6 @@
 {
     "name": "BaryonSwap Token",
-    "timestamp": "2024-01-22T11:00:00.269Z",
+    "timestamp": "2024-01-22T23:00:00.493Z",
     "version": {},
     "keywords": [
         "baryon",
@@ -8,6 +8,13 @@
     ],
     "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/baryon.png",
     "tokens": [
+        {
+            "name": "WRAPPED-KIBHO",
+            "address": "0xf48a6134aae5fc7186fee6a7f874426af69aecf8",
+            "symbol": "WKBO",
+            "decimals": "18",
+            "chainId": 56
+        },
         {
             "name": "Kingdom Raids",
             "address": "0x37b53894e7429f794b56f22a32e1695567ee9913",
@@ -45,7 +52,7 @@
             "address": "0x55d398326f99059fF775485246999027B3197955",
             "symbol": "USDT",
             "decimals": 18,
-            "logoURI": "https://coin98.s3.amazonaws.com/jpjgywX0Hki6T9Rp",
+            "logoURI": "https://coin98.s3.amazonaws.com/hNlJzEdjNHyG1mzG",
             "chainId": 56
         },
         {
@@ -81,7 +88,7 @@
             "chainId": 56
         },
         {
-            "name": "Coin98 Dollar",
+            "name": "CUSD",
             "address": "0xFa4BA88Cf97e282c505BEa095297786c16070129",
             "symbol": "CUSD",
             "decimals": 18,
